@@ -7,8 +7,6 @@ __pycache__/
 # Logs runtime
 logs/
 monitor/
-tgbot.log
-backtest*.log
 
 # Sensible
 api-keys.json
